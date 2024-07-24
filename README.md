@@ -12,7 +12,7 @@
 ## Como subir a stack?
 Faça clone do projeto
 ```
-git clone
+git clone https://github.com/wlcamargo/stack_monitoring_docker
 ```
 
 entre na pasta e execute o comando para baixar as imagens e rodar os containers
